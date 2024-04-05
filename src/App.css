@@ -13,7 +13,7 @@
 }
 
 .banner-img {
-    background-image: url('../../../public/back.jpg');
+    background-image: url('/public/back.jpg');
     height: 40rem;
     background-size: cover;
     background-repeat: no-repeat;
